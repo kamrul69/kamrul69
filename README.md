@@ -24,9 +24,11 @@ Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysi
 
 -------
 
+#### Programming Certificates: 
+- [R-Programming Language](https://www.udemy.com/certificate/UC-821c039d-aab3-448a-90c4-635aba8bf9b6/)
+- [SQL](https://www.udemy.com/certificate/UC-5548b0a8-c4f4-40f0-9512-6bfa3d86a820/)
 
-- 🔭 I’m currently learning and working on git and GitHub.  
-- 📫 How to reach me: mkam.hasan@gmail.com  
+
 -----  
 
 
