@@ -1,4 +1,4 @@
-### 👋, I'm Kamrul Hasan. I am totally new here. Now I am learning git and github. I have some projects that I completed. I will upload these here. 
+### 👋,This is Kamrul Hasan. I am totally new here. Now I'm learning git and github. I have some projects that I completed. I will upload these here. 
 ![](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
 
 I'm trying to be an Actuarial Data Analyst. I believe my dream is not too far. Currently, I'm doing a master's in Actuarial and Financial mathematics. I'm eagerly waiting to take a challenge and enrich my thinking with your company as an Actuarial Data Analyst Intern / Data Analyst Intern.
@@ -27,9 +27,6 @@ Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysi
 - [R-Programming Language](https://www.udemy.com/certificate/UC-821c039d-aab3-448a-90c4-635aba8bf9b6/)
 - [SQL](https://www.udemy.com/certificate/UC-5548b0a8-c4f4-40f0-9512-6bfa3d86a820/)
 - [MS Excel](https://www.udemy.com/certificate/UC-d097797f-ad1c-4dbe-8e62-bc0eb04a5e67/)
-
-
------  
 
 
 
