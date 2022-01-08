@@ -26,7 +26,7 @@ Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysi
 
 
 - 🔭 I’m currently learning and working on git and GitHub.  
-- 📫 How to reach me: mkam.hasan@gmail.com 
+- 📫 How to reach me: mkam.hasan@gmail.com  
 -----  
 
 
