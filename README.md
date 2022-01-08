@@ -10,7 +10,6 @@ I'm trying to be an Actuarial Data Analyst. I believe my dream is not too far. C
 Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysis and Report Writing
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul69 &langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Skills: 
 
