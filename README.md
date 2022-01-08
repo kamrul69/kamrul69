@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Kamrul Hasan.
-![](https://media-exp1.licdn.com/dms/image/C5616AQHWc0zvmR1e3Q/profile-displaybackgroundimage-shrink_350_1400/0/1631793137910?e=1646870400&v=beta&t=GtjbhJZz7OKFUHSFwfUPQhX88_JPtKKT0YeR-AoVTkU)
+### 👋, I'm Kamrul Hasan.
+![](https://scontent-frt3-2.xx.fbcdn.net/v/t31.18172-8/12778882_905007559569029_8441312612910981476_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=La1jYoI4oq4AX-uV30T&_nc_ht=scontent-frt3-2.xx&oh=00_AT8l0dpFz9MOpCXyTY8j3WuV1lcvxSc8F9sP-uL0Leb8-w&oe=61FF55FE)
 
 I'm trying to be an Actuarial Data Analyst. I believe my dream is not too far. Currently, I'm doing a master's in Actuarial and Financial mathematics. I'm eagerly waiting to take a challenge and enrich my thinking with your company as an Actuarial Data Analyst Intern / Data Analyst Intern.
 
