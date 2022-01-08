@@ -1,9 +1,8 @@
 ### Hi there 👋
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/hasan-2021/detail/background-image/)
+I'm trying to be an Actuarial Data Analyst. I believe my dream is not too far. Currently, I'm doing a master's in Actuarial and Financial mathematics. I'm eagerly waiting to take a challenge and enrich my thinking with your company as an Actuarial Data Analyst Intern / Data Analyst Intern.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+##Experiences on:
+Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysis and Report Writing
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul69)](https://github.com/anuraghazra/github-readme-stats)
