@@ -1,4 +1,4 @@
-#### 👋, I'm Kamrul Hasan. I am totally new here. Now I am learning git and github. I have some projects that I completed. I will upload these here. 
+### 👋, I'm Kamrul Hasan. I am totally new here. Now I am learning git and github. I have some projects that I completed. I will upload these here. 
 ![](https://scontent-frt3-2.xx.fbcdn.net/v/t31.18172-8/12778882_905007559569029_8441312612910981476_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=La1jYoI4oq4AX-uV30T&_nc_ht=scontent-frt3-2.xx&oh=00_AT8l0dpFz9MOpCXyTY8j3WuV1lcvxSc8F9sP-uL0Leb8-w&oe=61FF55FE)
 
 I'm trying to be an Actuarial Data Analyst. I believe my dream is not too far. Currently, I'm doing a master's in Actuarial and Financial mathematics. I'm eagerly waiting to take a challenge and enrich my thinking with your company as an Actuarial Data Analyst Intern / Data Analyst Intern.
