@@ -11,7 +11,7 @@ Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysi
 
 ---
 
-#### Skills: 
+#### Programming Skills: 
 
 - RStudio
 - SQL
