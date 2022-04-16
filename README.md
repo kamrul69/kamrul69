@@ -1,8 +1,8 @@
-#### 👋,This is Kamrul Hasan.I love to play with data. I have strong background on the field of Statistics and Mathematics. Currently, I'm doing my masters in Actuarial and Financial mathematics and I have valuable knowledge on Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysis and Report Writing. 
+#### 👋 I love to play with data. I have strong background in the field of Statistics and Mathematics. Currently, I'm doing my masters in Actuarial and Financial mathematics and I have valuable experience on Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysis and Report Writing. 
 
 ---
 
-#### Programming Skills: 
+##### Programming Skills: 
 
 - RStudio
 - SQL
@@ -14,7 +14,7 @@
 
 -------
 
-#### Programming Certificates: 
+##### Programming Certificates: 
 - [R-Programming Language](https://www.udemy.com/certificate/UC-821c039d-aab3-448a-90c4-635aba8bf9b6/)
 - [SQL](https://www.udemy.com/certificate/UC-5548b0a8-c4f4-40f0-9512-6bfa3d86a820/)
 - [MS Excel](https://www.udemy.com/certificate/UC-d097797f-ad1c-4dbe-8e62-bc0eb04a5e67/)
@@ -25,7 +25,7 @@
 
 
 
-#### Connect with me:
+##### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamrul69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-2021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamrulface90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kamrulface)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCqPcVPyuu8qznlULayJcMLw)  
 
 ------
