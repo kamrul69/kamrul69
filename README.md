@@ -12,6 +12,13 @@
 - HTML
 - CSS
 
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇩🇪German : Basic
+  <br />
+
 -------
 
 ##### Programming Certificates: 
@@ -28,6 +35,14 @@
 - [Arbitrage Opportunity](https://www.youtube.com/watch?v=Cfo76l_x5RM)
 
 <!-- YOUTUBE:END -->
+
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+- 🇧🇷 Portugues : Basic
+  <br />
 
 
 
