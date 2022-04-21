@@ -43,6 +43,19 @@
 - 🇮🇳 Hindi : Intermediate
 - 🇧🇷 Portugues : Basic
   <br />
+  
+  
+<!-- github stats starts here  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul69)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul69)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul69&show_icons=true) -->
+
+<br/>
+
+<!-- github stats ends here  -->
 
 
 
