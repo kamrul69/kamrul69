@@ -22,6 +22,12 @@
 
 
 ---
+#### 📹 &nbsp; My Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Arbitrage Opportunity](https://www.youtube.com/watch?v=Cfo76l_x5RM)
+
+<!-- YOUTUBE:END -->
 
 
 
