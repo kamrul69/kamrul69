@@ -1,12 +1,12 @@
-<samp>Hello 👋
+<samp>
+Hello 👋
 </samp>
 <p align="center">
   <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
-  <br>
-  <samp>
+<samp>
 I love to play with data. I have strong background in the field of Statistics and Mathematics. Currently, I'm doing my masters in Actuarial and Financial mathematics and I have valuable experience on Data Visualisation and Manipulations, Creating Databases, Data Cleaning, Analysis and Report Writing.
      <br><br>Contact me on <a href="https://twitter.com/kamrulface">Twitter</a>, <a href="https://www.linkedin.com/in/hasan-2021/">Linkedin</a>, or <a href="mkam.hasan@gmail.com">Send an Email</a>
-  </samp>
+</samp>
 </p>
 
 ---
