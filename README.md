@@ -41,6 +41,8 @@ I love to play with data. I have strong background in the field of Statistics an
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ Wealth Process] ()
+- [ Initial Wealth] ()
 - [Arbitrage Opportunity](https://www.youtube.com/watch?v=Cfo76l_x5RM)
 
 <!-- YOUTUBE:END -->
