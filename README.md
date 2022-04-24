@@ -41,6 +41,7 @@ I love to play with data. I have strong background in the field of Statistics an
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ Very basic difference between Natural numbers and Whole numbers](https://www.youtube.com/watch?v=TND5n7hM_EI)
 - [ Wealth Process](https://youtu.be/xfiaUqemxLg)
 - [ Initial Wealth](https://youtu.be/D1XaFLY0-cM)
 - [Arbitrage Opportunity](https://www.youtube.com/watch?v=Cfo76l_x5RM)
