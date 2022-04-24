@@ -41,7 +41,7 @@ I love to play with data. I have strong background in the field of Statistics an
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to calculate additive..] (https://youtu.be/xTmTCUREV4c)
+- [How to calculate additive and Subtractive by using line graph](https://youtu.be/xTmTCUREV4c)
 - [ Very basic difference between Natural numbers and Whole numbers](https://www.youtube.com/watch?v=TND5n7hM_EI)
 - [ Wealth Process](https://youtu.be/xfiaUqemxLg)
 - [ Initial Wealth](https://youtu.be/D1XaFLY0-cM)
