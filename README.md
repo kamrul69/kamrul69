@@ -41,6 +41,7 @@ I love to play with data. I have strong background in the field of Statistics an
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ How to make a basic table by using Excel (perfect and simple way)](https://www.youtube.com/watch?v=fLGENkmWqNM)
 - [How to calculate additive and Subtractive by using line graph (সংখ্যারেখার মাধ্যমে যোগ- বিয়োগ)](https://youtu.be/xTmTCUREV4c)
 - [ Very basic difference between Natural numbers and Whole numbers](https://www.youtube.com/watch?v=TND5n7hM_EI)
 - [ Wealth Process](https://youtu.be/xfiaUqemxLg)
