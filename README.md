@@ -41,6 +41,7 @@ I love to play with data. I have strong background in the field of Statistics an
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ Modifying an Excel Worksheet ](https://www.youtube.com/watch?v=zewh8loJXOw)
 - [ How to calculate basic excel functions ](https://www.youtube.com/watch?v=WD0uNgqDonk&list=PL3A70PxOg00ndqHcVaYrD2Lsue6APmoHw&index=2)
 - [ How to make a basic table by using Excel (perfect and simple way)](https://www.youtube.com/watch?v=fLGENkmWqNM)
 - [How to calculate additive and Subtractive by using line graph (সংখ্যারেখার মাধ্যমে যোগ- বিয়োগ)](https://youtu.be/xTmTCUREV4c)
