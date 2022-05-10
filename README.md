@@ -36,7 +36,7 @@ I love to play with data. I have strong background in the field of Statistics an
 - [R-Programming Language](https://www.udemy.com/certificate/UC-821c039d-aab3-448a-90c4-635aba8bf9b6/)
 - [SQL](https://www.udemy.com/certificate/UC-5548b0a8-c4f4-40f0-9512-6bfa3d86a820/)
 - [MS Excel](https://www.udemy.com/certificate/UC-d097797f-ad1c-4dbe-8e62-bc0eb04a5e67/)
-- [To see all certificates, just click here](https://github.com/kamrul69/Earned-online-certificates/commit/32e5f3e8c3d90746fe6e32925b9df62ced718244)
+- [To see all programming certificates, just click here](https://github.com/kamrul69/Earned-online-certificates/commit/32e5f3e8c3d90746fe6e32925b9df62ced718244)
 
 ---
 #### 📹 &nbsp; My Latest YouTube Videos
