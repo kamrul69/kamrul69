@@ -14,7 +14,7 @@ I love to play with data. I have strong background in the field of Statistics an
   
 #### Programming Skills: 
 
-- RStudio
+- R-Studio
 - SQL
 - MS Excel
 - MS Powerpoint
