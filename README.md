@@ -27,7 +27,7 @@ I love to play with data. I have strong background in the field of Statistics an
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇩🇪German : Basic
+- 🇩🇪 German : Basic
   <br />
 <!-- language skills are ended here-->
 -------
@@ -66,7 +66,7 @@ I love to play with data. I have strong background in the field of Statistics an
 ### Sports / Game / Activities / Hobby:
 - ✍️ Writing, 📚 Reading Books
 - 🏏 Cricket, 🏸 Badminton
--🏃‍♂️ Running, 🚶‍♂️ Walking
+- 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 <!-- my sports and games section ends here  -->
 ----
