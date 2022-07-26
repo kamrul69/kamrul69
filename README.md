@@ -14,11 +14,11 @@ I love to play with data. I have strong background in the field of Statistics an
   
 #### KEY TECHNICAL SKILLS: 
 
-- <b>Programming Languages:</b> Python, SQL, Java
-- <b>Library:</b> NumPy, pandas, Scipy, scikit-learn, TensorFlow, Keras, NLTK, Matplotlib, Seaborn, Bokeh
-- <b>Web Development Technologies:</b> HTML5, CSS3, Angular 8, JavaScript, TypeScript
-- <b>Applications:</b> Anaconda, Jupyter Notebook, IntelliJ IDEA, Tableau, Git, Shell, Android, Latex, Microsoft Office
-- <b>DBMS:</b> PostgreSQL, MySQL, Oracle 10g, SQLite, Microsoft SQL server, NoSQL, MongoDB, MongoDB Atlas
+- <b>Programming Languages:</b> R-Programming Language, Python, SQL
+- <b>Library:</b> NumPy, pandas, Scipy, Matplotlib, Seaborn
+- <b>Web Development Technologies:</b> HTML5, CSS, JavaScript, TypeScript
+- <b>Applications:</b> Anaconda, Jupyter Notebook,R-Studio, Git, Android, Latex, Microsoft Office
+- <b>DBMS:</b> PostgreSQL
 <!-- language skill stars here -->
 ----
 #### Languages:
