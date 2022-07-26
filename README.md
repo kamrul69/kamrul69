@@ -12,15 +12,13 @@ I love to play with data. I have strong background in the field of Statistics an
 ---
   <samp>
   
-#### Programming Skills: 
+#### KEY TECHNICAL SKILLS: 
 
-- R-Studio
-- SQL
-- MS Excel
-- MS Powerpoint
-- Python
-- HTML
-- CSS
+- <b>Programming Languages:</b> Python, SQL, Java
+- <b>Library:</b> NumPy, pandas, Scipy, scikit-learn, TensorFlow, Keras, NLTK, Matplotlib, Seaborn, Bokeh
+- <b>Web Development Technologies:</b> HTML5, CSS3, Angular 8, JavaScript, TypeScript
+- <b>Applications:</b> Anaconda, Jupyter Notebook, IntelliJ IDEA, Tableau, Git, Shell, Android, Latex, Microsoft Office
+- <b>DBMS:</b> PostgreSQL, MySQL, Oracle 10g, SQLite, Microsoft SQL server, NoSQL, MongoDB, MongoDB Atlas
 <!-- language skill stars here -->
 ----
 #### Languages:
@@ -33,9 +31,6 @@ I love to play with data. I have strong background in the field of Statistics an
 -------
 
 #### Programming Certificates: 
-- [R-Programming Language](https://www.udemy.com/certificate/UC-821c039d-aab3-448a-90c4-635aba8bf9b6/)
-- [SQL](https://www.udemy.com/certificate/UC-5548b0a8-c4f4-40f0-9512-6bfa3d86a820/)
-- [MS Excel](https://www.udemy.com/certificate/UC-d097797f-ad1c-4dbe-8e62-bc0eb04a5e67/)
 - [To see all programming certificates, just click here](https://github.com/kamrul69/Earned-online-certificates/commit/32e5f3e8c3d90746fe6e32925b9df62ced718244)
 
 ---
