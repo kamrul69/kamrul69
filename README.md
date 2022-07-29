@@ -17,7 +17,7 @@ I love to play with data. I have strong background in the field of Statistics an
 - <b>Programming Languages:</b> R-Programming Language, Python, SQL
 - <b>Library:</b> NumPy, pandas, Scipy, Matplotlib, Seaborn
 - <b>Web Development Technologies:</b> HTML5, CSS, JavaScript, TypeScript
-- <b>Applications:</b> Anaconda, Jupyter Notebook,R-Studio, Git, Android, Latex, Microsoft Office
+- <b>Applications:</b> Anaconda, Jupyter Notebook, R-Studio, Git,Latex, MS Office, MS Excel
 - <b>DBMS:</b> PostgreSQL
 <!-- language skill stars here -->
 ----
