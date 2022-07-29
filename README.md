@@ -23,9 +23,9 @@ I love to play with data. I have strong background in the field of Statistics an
 ----
 #### Languages:
 
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇩🇪 German : Basic
+- Bangla : Native
+- English : Advanced
+- German : Basic
   <br />
 <!-- language skills are ended here-->
 -------
