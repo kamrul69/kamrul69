@@ -34,7 +34,7 @@ I love to play with data. I have strong background in the field of Statistics an
 - [To see all programming certificates, just click here](https://github.com/kamrul69/Earned-online-certificates/commit/32e5f3e8c3d90746fe6e32925b9df62ced718244)
 
 ---
-#### 📹 &nbsp; My Latest YouTube Videos
+#### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [ মানবতা ](https://www.youtube.com/watch?v=fDXVKxGSD9Q&t=32s)
@@ -60,7 +60,7 @@ I love to play with data. I have strong background in the field of Statistics an
 <!-- github stats ends here  -->
 <!-- my sports and game section starts here  -->
 
-### Sports / Game / Activities / Hobby:
+#### Sports / Game / Activities / Hobby:
 - ✍️ Writing, 📚 Reading Books
 - 🏏 Cricket, 🏸 Badminton
 - 🏃‍♂️ Running, 🚶‍♂️ Walking
