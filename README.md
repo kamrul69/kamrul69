@@ -15,7 +15,7 @@ I love to play with data. I have strong background in the field of Statistics an
 #### KEY TECHNICAL SKILLS: 
 
 - <b>Programming Languages:</b> R-Programming Language, Python, SQL
-- <b>Library:</b> NumPy, pandas, Scipy, Matplotlib, Seaborn
+- <b>Library:</b> math, numpy, pandas, Scipy, Matplotlib.pyplot, random, sympy, sys, timeit, Seaborn
 - <b>Web Development Technologies:</b> HTML, CSS, JavaScript, TypeScript
 - <b>Applications:</b> Anaconda, Jupyter Notebook, R-Studio, Git, Latex, MS Office, MS Excel
 - <b>DBMS:</b> PostgreSQL
